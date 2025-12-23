@@ -462,6 +462,10 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009246|Referer=https://nxtlive.net/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema eddd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinemahd 11 refer
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeecinema|Referer=https://colorsportscreen.com/
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinemahd 22 REFER
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeecinemahd|Referer=https://colorsportscreen.com/
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -469,14 +473,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qFJ03tqY/8.jpg" group-title="Indian Hindi🇮🇳", &Pictures HD01 eddd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qFJ03tqY/8.jpg" group-title="Indian Hindi🇮🇳", &Pictures 2 REFER
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-pictures|Referer=https://colorsportscreen.com/
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qFJ03tqY/8.jpg" group-title="Indian Hindi🇮🇳", &Pictures HD 2 REFER 
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-tvpictureshd|Referer=https://colorsportscreen.com/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LvCY2mf/images-11.jpg" group-title="Indian Hindi🇮🇳", Xplor 2 REFER
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZJvjZfy/unnamed-1.jpg" group-title="Indian Hindi🇮🇳", Zee Action eddd
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209|Referer=https://colorsportscreen.com/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZJvjZfy/unnamed-1.jpg" group-title="Indian Hindi🇮🇳", Zee Action REFER
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeeaction|Referer=https://oxolive.com/
@@ -740,10 +743,11 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-channel_2105335046|Referer
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd REFEERRR
 https://nxtlive.net/sliv/stream.m3u8?id=1000009258|Referer=https://nxtlive.net/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd TOFFEE
-https://allottplay.com/tv/toffee/live.php?id=sonypix_hd&e=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gtSS5fR/images-7.png" group-title="English Channel", &prive REFER
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-9z5543514|Referer=https://oxolive.com/
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j6DWfy6/images-4.png" group-title="English Channel", HBO 11
