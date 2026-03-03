@@ -287,11 +287,6 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y4zQjCmQ/channels4-profile.jpg" group-title="Indian Hindi🇮🇳", Bollywood classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg" group-title="Indian Hindi🇮🇳", Bhojpuri Cinema
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi🇮🇳", Sony Entertaiment REFERR
-
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema EDDDDD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -352,8 +347,13 @@ https://m3uplay.com/leo/live.php?id=488&format=.m3u8|Referer=https://m3uplay.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zvwnRHT/Manoranjan-TVLogo.jpg" group-title="Indian Hindi🇮🇳", MonoRonjon Tv
 https://cdn-1.pishow.tv/live/1013/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hRrKFx7p/Sony-Entertainment-Television.png" group-title="Indian Hindi🇮🇳", SONY ENTERTAIN
-http://103.175.73.12:8080/live/250/250_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg" group-title="Indian Hindi🇮🇳", Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi🇮🇳", Sony Entertaiment REFERR
+http://203.18.159.115/SONYENTHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2YSbp8Tv/channels4-profile-1.jpg" group-title="Indian Hindi🇮🇳", Dangal Tv 1
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
