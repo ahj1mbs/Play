@@ -574,18 +574,18 @@ https://flussonic.defineatoz.com/TSports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel⚽⚾🏏", T Sports 
 https://live.mncdn.shop/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8|Referer=https://tv.movienestbd.site/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel⚽⚾🏏", T Sports AA
-
+http://198.195.239.50:8095/Tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel⚽⚾🏏", T Sports HOME2
 https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel⚽⚾🏏", T Sports 22
-
+https://playztv-apps.pages.dev/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel⚽⚾🏏", T Sports SUN
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel⚽⚾🏏", T Sports 66
 http://tvn2.chowdhury-shaheb.com/tsport/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrW66Gky/Nagorik-Tv.jpg" group-title="Sports Channel⚽⚾🏏", NAGORIK TV
-
+http://198.195.239.50:8095/nagorik/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrW66Gky/Nagorik-Tv.jpg" group-title="Sports Channel⚽⚾🏏", NAGORIK TV 22
 
 
@@ -595,28 +595,30 @@ http://tvn2.chowdhury-shaheb.com/tsport/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240" group-title="Sports Channel⚽⚾🏏", TAMPAD
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 1
+https://playyonogames.in/sliv/stream.m3u8?id=1000009276|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 1 SUN
 http://203.18.159.115/SONYSPORTS1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 1 HOME
 https://flussonic.defineatoz.com/SonySports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 1
-https://playyonogames.in/sliv/stream.m3u8?id=1000009276|Referer=https://playyonogames.in/
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 2
+https://playyonogames.in/sliv/stream.m3u8?id=1000009277|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 2 HOME
 https://flussonic.defineatoz.com/sonysport2L/tracks-v1a1/mono.m3u8?
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 2 REFERRRR
-https://playyonogames.in/sliv/stream.m3u8?id=1000009277|Referer=https://playyonogames.in/
 
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 3
+https://playyonogames.in/sliv/stream.m3u8?id=1000009278|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 3 HOME
 https://flussonic.defineatoz.com/SonySports5L3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 3 REFEERRR
-https://playyonogames.in/sliv/stream.m3u8?id=1000009278|Referer=https://playyonogames.in/
 
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 5
+https://playyonogames.in/sliv/stream.m3u8?id=1000009275|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 5 HOME
 https://flussonic.defineatoz.com/SonySports5L3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 5 REFERRR
-https://playyonogames.in/sliv/stream.m3u8?id=1000009275|Referer=https://playyonogames.in/
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 5
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 555
 http://103.99.249.139/sonyten3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMt3vn2s/IMG-1755107458330-2.jpg" group-title="Sports Channel⚽⚾🏏", WILLOW 1
