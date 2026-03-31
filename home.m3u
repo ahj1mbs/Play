@@ -205,6 +205,9 @@ https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 INDIAN BANGLA
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", Gopal Var
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 11
 https://live.mncdn.shop/890a1a92-0602-4c2d-93ca-a2c43e7aec54/index.m3u8|Referer=https://tv.movienestbd.site/
@@ -246,9 +249,6 @@ http://stvlive.net:8080/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH Tofee
 https://hdabgh.mnbd.workers.dev/cdn/live/sonyaath/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", Gopal Var
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
 
 
