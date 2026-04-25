@@ -63,7 +63,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DD1JmQps/images-6.png" group-title="🇧🇩বাঙালি টিভি", EKHON TV
-http://sm-monirul.top/AyNa/play.php?id=0579659b-2854-40d1-ad6a-69b70641ad17&e=.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tHxZwNx/channels4-profile-14.jpg" group-title="🇧🇩বাঙালি টিভি", Bangla Gago
@@ -73,7 +73,7 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1tDD32ww/d-B7p-XX6-400x400.png" group-title="🇧🇩বাঙালি টিভি", Bangla 24/7 Movies 
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="🇧🇩বাঙালি টিভি", Maasranga Tv 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
@@ -117,10 +117,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/-Xz3PJwBcqxnFHJBDAlE/posters/fecea361-8b60-4aeb-a530-6e27eee8178a.png" group-title="🇧🇩বাঙালি টিভি", Mohona tv
-https://hdabgh.mnbd.workers.dev/cdn/live/mohona_tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRJrSKqw/Bangla-Tv.jpg" group-title="🇧🇩বাঙালি টিভি", BANGLA TV HD
-https://hdabgh.mnbd.workers.dev/cdn/live/bangla_tv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="🇧🇩বাঙালি টিভি", BIJOY TV HD
@@ -128,16 +128,16 @@ https://hdabgh.mnbd.workers.dev/cdn/live/bijoytv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="🇧🇩বাঙালি টিভি", Toffee Movie
-https://hdabgh.mnbd.workers.dev/cdn/live/toffee_movie/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvVmtRMh/Ananda-Tv.jpg" group-title="🇧🇩বাঙালি টিভি", ANANDA TV
-https://hdabgh.mnbd.workers.dev/cdn/live/anandatv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rG60dVG9/desitv.png" group-title="🇧🇩বাঙালি টিভি", DASHI Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="🇧🇩বাঙালি টিভি", toffee_drama
-https://hdabgh.mnbd.workers.dev/cdn/live/toffee_drama/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49" group-title="🇧🇩বাঙালি টিভি", Drama 24
 https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
@@ -160,9 +160,9 @@ https://flussonic.defineatoz.com/TSports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="🇧🇩বাঙালি টিভি", T Sports 198
 http://198.195.239.50:8095/Tsports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/m5TCg41v/Star-Sports-1-min.avif" group-title="🇧🇩বাঙালি টিভি", Star Sports 1 198
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="🇧🇩বাঙালি টিভি", Star Sports 1 198
 http://198.195.239.50:8095/SonyTenSports5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/m5TCg41v/Star-Sports-1-min.avif" group-title="🇧🇩বাঙালি টিভি", Star Sports 1 HOME
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="🇧🇩বাঙালি টিভি", Star Sports 1 HOME
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8?
 
 
