@@ -88,10 +88,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://playztv-apps.pages.dev/asian-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zPFbF67/20240826-230349.png" group-title="🇧🇩বাঙালি টিভি", EKUSHEY TV
-
+https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="🇧🇩বাঙালি টিভি", Boishakhi AA
-
+https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="🇧🇩বাঙালি টিভি", Channel I 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
@@ -117,7 +117,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/-Xz3PJwBcqxnFHJBDAlE/posters/fecea361-8b60-4aeb-a530-6e27eee8178a.png" group-title="🇧🇩বাঙালি টিভি", Mohona tv
-
+https://playztv-apps.pages.dev/mohona-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRJrSKqw/Bangla-Tv.jpg" group-title="🇧🇩বাঙালি টিভি", BANGLA TV HD
 
@@ -375,7 +375,7 @@ http://198.195.239.50:8095/ColorsCineplex/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="Cartoon Channel", Motu Patlu
-
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Bantul_the_Great_logo.png" group-title="Cartoon Channel", Bantul The Great
 
