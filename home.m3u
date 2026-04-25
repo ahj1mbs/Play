@@ -358,7 +358,8 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009273|Referer=https://playyono
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjHFBjfQ/And-TV-new-Logo.png" group-title="Indian Hindi🇮🇳", &Ed tv 22
 https://hdabgh.mnbd.workers.dev/cdn/live/and_tv_hd/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5kyW9Pn/Colors-Cineplex-Superhits.jpg" group-title="Indian Hindi🇮🇳", COLORS CINEPLEX
+https://m3uplay.com/leo/live.php?id=1450&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5kyW9Pn/Colors-Cineplex-Superhits.jpg" group-title="Indian Hindi🇮🇳", COLORS CINEPLEX 198
 http://198.195.239.50:8095/ColorsCineplex/index.m3u8
 
