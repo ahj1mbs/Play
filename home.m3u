@@ -254,9 +254,6 @@ http://115.187.41.216:8080/hls/amarbangla/index.m3u8
 http://115.187.41.216:8080/hls/montvbangla/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="🇧🇩বাঙালি টিভি", SET MAX HD AA
-http://skunkytv.live/play/live.php?mac=00:1A:79:34:65:30&stream=281290&extension=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="🇧🇩বাঙালি টিভি", no tv
 
 
