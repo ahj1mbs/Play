@@ -163,6 +163,8 @@ http://stvlive.net:8080/zeebangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="TV টিভি", Star Jalsha 198
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="TV টিভি", Star Jalsha AYNA
+https://tvsen3.aynascope.net/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="TV টিভি", Star Jalsha AA
 http://skunkytv.live/play/live.php?mac=00:1A:79:34:65:30&stream=281675&extension=.m3u8
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="TV টিভি", Star Jalsha STV
