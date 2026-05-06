@@ -817,23 +817,14 @@ http://stvlive.net:8080/starmovies/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="English Channel", Sony Channel
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2e6c6842391fd4d9dfe3c047e286eb4:7d563478e5669d44cec9a6215052fec3
-https://cdn02.gigared.com.ar/live/eds/Sony_Channel/sa_live_dash/Sony_Channel.mpd
+
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="English Channel", Sony Movies
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4201cacd22f7a4f3bb6db354c9ac9d75:f43bbaf105697ac3f8ff4c69ee30967f
-https://cdn02.gigared.com.ar/live/eds/Sony_Movies/sa_live_dash/Sony_Movies.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="English Channel", MTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=92a2837411c8be67f7ec1f79a7996750:1ec313bd01d3f6d306fff11e4b032a1b
-https://cdn02.gigared.com.ar/live/eds/MTV/sa_live_dash/MTV.mpd
+
 
 
 
