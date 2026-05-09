@@ -902,7 +902,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/inpyms8ezu/out/v1/1
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240" group-title="Sports Channel⚽⚾🏏", SONY liv m3
-https://m3uplay.com/leo/live.php?id=155&format=.m3u8|Referer=https://m3uplay.com/
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 1 liv
 https://b4uplay.com/sliv/stream.m3u8?id=1000009276|Referer=https://b4uplay.com/
@@ -945,6 +945,8 @@ https://hdabgh.mnbd.workers.dev/cdn/live/sony_sports_3_hd/playlist.m3u8
 https://b4uplay.com/sliv/stream.m3u8?id=1000009275|Referer=https://b4uplay.com/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 5 liv22
 https://playyonogames.in/sliv/stream.m3u8?id=1000009275|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 5 m3
+https://m3uplay.com/leo/live.php?id=155&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 5 toffee
 https://hdabgh.mnbd.workers.dev/cdn/live/sony_sports_5_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 5 103
