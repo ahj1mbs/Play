@@ -2107,7 +2107,7 @@ https://fmftp.net/api/stream/video/stream?type=movies&id=575
 https://fmftp.net/api/stream/video/stream?type=movies&id=513
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Hollywood Hindi Movies",Love Again
 https://fmftp.net/api/stream/video/stream?type=movies&id=737
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU1ODNiNGQtZTQyMy00MTI2LWIxMTYtYWIyNDM4NmMwMDBlXkEyXkFqcGdeQXVyMTMzMDI1NDAw._V1_.jpg" group-title="Vod Nostalgia",Misteri Rumah Tua - 1987
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Misteri%20Rumah%20Tua.mp4
 #EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/7/6/1/4/3/1/761431-kanta-serigala-0-230-0-345-crop.jpg?v=a56a9cffd5" group-title="Vod Nostalgia",Kanta Serigala - 1991
@@ -2179,7 +2179,7 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Prebet%20
 
 
 
-#EXTM3U 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7dKbtRhd/20250428-175512.jpg" group-title="South India Movies" , Ala Vaikunthapurramuloo (2020)
 https://pixeldrain.dev/api/file/tjwq5q3z?download
 
