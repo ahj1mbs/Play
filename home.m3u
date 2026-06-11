@@ -503,8 +503,8 @@ http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="খেলাধুলা টিভি", T Sports HOICHO
 https://amitomar.bdixbd.net/hoichoi.pro1/tracks-v1/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="খেলাধুলা টিভি", PTV SPORT
+https://flussonic.defineatoz.com/PTV/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qx85GcT/IMG-1741985990388.png" group-title="খেলাধুলা টিভি", Star Sports 1 HOME
@@ -534,9 +534,6 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="খেলাধুলা টিভি", A SPORT
 https://tvsen6.aynaott.com/asports/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="খেলাধুলা টিভি", PTV SPORT
-https://flussonic.defineatoz.com/PTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gby2v8xP/ANI-20230906112447.jpg" group-title="খেলাধুলা টিভি", DD SPORT
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
