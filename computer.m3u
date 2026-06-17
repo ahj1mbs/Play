@@ -377,10 +377,10 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1tDD32ww/d-B7p-XX6-400x400.png" group-title="Indian Hindi🇮🇳", 24/7 Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1tDD32ww/d-B7p-XX6-400x400.png" group-title="Indian Hindi🇮🇳", 24/7 dubbed Movie 
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi🇮🇳", SET MAX HD m3
@@ -451,7 +451,9 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema eddd sd
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema HD EDDdd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
