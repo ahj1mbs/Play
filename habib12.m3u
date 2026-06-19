@@ -9,7 +9,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 https://flussonic.defineatoz.com/BeinSports1/index.m3u8?token=681ac7dee2caa46bb695b62f1c9e70cfc5fad0d6-b5ac59a6bf6e9604c0ecb8cebd302f39-1781811211-1781800411&remote=103.114.23.14
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjf8WNWT/T-Sports-2.png" group-title="Sports",41. T SPORTS HD
-http://185.233.166.215/TATABD/play.php?id=167590&format=.m3u8|referer=RANAPK|User-Agent=Mozila
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdyRP2Sg/IMG-20260614-023554.jpg" group-title="Sports",42. UNITE8 SPORTS HD 1 
+https://xfireflix.my.id/mac.php?id=373312.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png" group-title="বাংলাদেশি টিভি", Movie Bangla TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
