@@ -8,9 +8,11 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="খেলাধুলা টিভি",  FIFA World Cup BAIN SPORT
 https://flussonic.defineatoz.com/BeinSports1/index.m3u8?token=681ac7dee2caa46bb695b62f1c9e70cfc5fad0d6-b5ac59a6bf6e9604c0ecb8cebd302f39-1781811211-1781800411&remote=103.114.23.14
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjf8WNWT/T-Sports-2.png" group-title="Sports",41. T SPORTS HD
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel⚽⚾🏏", T Sports 198 195
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png" group-title="বাংলাদেশি টিভি", Movie Bangla TV
-http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PTTQxmS/images-13.jpg" group-title="Islamic Channel", Peace Tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
 
