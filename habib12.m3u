@@ -2,15 +2,15 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="খেলাধুলা টিভি",  FIFA World Cup 26 GO
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="খেলাধুলা টিভি",  FIFA World Cup BAIN SPORT
 https://flussonic.defineatoz.com/BeinSports1/index.m3u8?token=681ac7dee2caa46bb695b62f1c9e70cfc5fad0d6-b5ac59a6bf6e9604c0ecb8cebd302f39-1781811211-1781800411&remote=103.114.23.14
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel⚽⚾🏏", T Sports 198 195
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="সংবাদ টিভি", BTV 
+https://flussonic.defineatoz.com/btv/index.m3u8?token=484931aa081ff23c6b5fd97a49de252af5e655d7-556afa1eae4db29e423ea909bf52174d-1781457050-1781446250&remote=103.114.23.14
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PTTQxmS/images-13.jpg" group-title="Islamic Channel", Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
@@ -31,8 +31,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-vid
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BD News🇧🇩", EKATTOR TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="BD News🇧🇩", TOFEE 5
-https://cdn-tt.pages.dev/ch5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="BD News🇧🇩", Toffee 1
 https://cdn-tt.pages.dev/ch1.m3u8
@@ -49,4 +47,5 @@ https://cdn-tt.pages.dev/ch3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="BD News🇧🇩", Toffee 4
 https://cdn-tt.pages.dev/ch4.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="BD News🇧🇩", TOFEE 5
+https://cdn-tt.pages.dev/ch5.m3u8
