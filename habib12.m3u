@@ -1,8 +1,12 @@
 #EXTM3U
 
 
-
-
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="খেলাধুলা টিভি",  FIFA World Cup 26
+http://103.179.25.147:8181/FiFaaaaaah/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BD News🇧🇩", FIFA World Cup 26 somoy tv
+http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="খেলাধুলা টিভি",  FIFA World Cup Biscopee
+https://bioscope.sm-monirulislam-exp.workers.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="খেলাধুলা টিভি",  FIFA World Cup BAIN SPORT
 https://flussonic.defineatoz.com/BeinSports1/index.m3u8?token=681ac7dee2caa46bb695b62f1c9e70cfc5fad0d6-b5ac59a6bf6e9604c0ecb8cebd302f39-1781811211-1781800411&remote=103.114.23.14
 
