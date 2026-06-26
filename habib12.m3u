@@ -49,5 +49,9 @@ https://cdn-tt.pages.dev/ch4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv", TOFEE 5
 https://cdn-tt.pages.dev/ch5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png" ,Bioscope 
+http://sm-monirul.top/ott/bioscope/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png" ,Bioscope 
+http://sm-monirul.top/ott/bioscope1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv", no tv
