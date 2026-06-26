@@ -215,11 +215,6 @@ https://flussonic.defineatoz.com/TSports2/index.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="ভারতীয় টিভি", Zee Bangla Home 01
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="ভারতীয় টিভি", Zee Bangla Home
 https://flussonic.defineatoz.com/zeebangla/tracks-v1a1/mono.m3u8
@@ -230,6 +225,10 @@ http://skunkytv.live/play/live.php?mac=00:1A:79:34:65:30&stream=1173096&extensio
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="ভারতীয় টিভি", Zee Bangla TOFEE
 https://sm-monirul.top/toffee/play/zee_bangla.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="ভারতীয় টিভি", Zee Bangla eddd 01
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="ভারতীয় টিভি", Star Jalsha Home
 https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
