@@ -1,51 +1,57 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="খেলাধুলা টিভি",  FIFA World Cup 26
-http://103.179.25.147:8181/FiFaaaaaah/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BD News🇧🇩", FIFA World Cup 26 somoy tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="onetv", FIFA World Cup 26 somoy tv
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="খেলাধুলা টিভি",  FIFA World Cup BAIN SPORT
-https://flussonic.defineatoz.com/BeinSports1/index.m3u8?token=681ac7dee2caa46bb695b62f1c9e70cfc5fad0d6-b5ac59a6bf6e9604c0ecb8cebd302f39-1781811211-1781800411&remote=103.114.23.14
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="সংবাদ টিভি", BTV 
-https://flussonic.defineatoz.com/btv/index.m3u8?token=484931aa081ff23c6b5fd97a49de252af5e655d7-556afa1eae4db29e423ea909bf52174d-1781457050-1781446250&remote=103.114.23.14
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T10jC1zQ/1000086945.jpg" group-title="onetv", Gopal Bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PTTQxmS/images-13.jpg" group-title="Islamic Channel", Peace Tv Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbKqj0w3/1000086946.jpg" group-title="onetv", Moto Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Bantul_the_Great_logo.png" group-title="onetv", Bantul The Great
+https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PTTQxmS/images-13.jpg" group-title="onetv", Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BD News🇧🇩", Somoy tv
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="onetv", Somoy tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD News🇧🇩", Jumuna Tv 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BD News🇧🇩", Independent Tv
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="onetv", Independent Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="BD News🇧🇩", Channel 24
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="onetv", Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BD News🇧🇩", EKATTOR TV HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="onetv", EKATTOR TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="BD News🇧🇩", Toffee 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv", Toffee 1
 https://cdn-tt.pages.dev/ch1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="BD News🇧🇩", Tofee 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv", Tofee 2
 https://cdn-tt.pages.dev/ch2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="BD News🇧🇩", toffee 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv", toffee 3
 https://cdn-tt.pages.dev/ch3.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="BD News🇧🇩", Toffee 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv", Toffee 4
 https://cdn-tt.pages.dev/ch4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="BD News🇧🇩", TOFEE 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv", TOFEE 5
 https://cdn-tt.pages.dev/ch5.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv", no tv
