@@ -25,9 +25,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbKqj0w3/1000086946.jpg" group-title="onetv", Moto Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Bantul_the_Great_logo.png" group-title="onetv", Bantul The Great
-https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="onetv", FIFA World Cup 26 somoy tv
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 
