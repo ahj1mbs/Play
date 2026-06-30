@@ -927,12 +927,10 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="বিশ্বকাপ ফুটবল ২০২৬",  FIFA World Cup 26 foxtv
 http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="বিশ্বকাপ ফুটবল ২০২৬",  FIFA World Cup 26 tsport 2222
-https://trs1.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="বিশ্বকাপ ফুটবল ২০২৬",  FIFA World Cup 26 btv live
 http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="বিশ্বকাপ ফুটবল ২০২৬", FIFA World Cup 26 somoy tv
-http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="বিশ্বকাপ ফুটবল ২০২৬",   Toffee 11
 https://cdn-tt.pages.dev/ch1.m3u8
