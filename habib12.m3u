@@ -47,12 +47,11 @@ https://cdn-tt.pages.dev/ch4.m3u8
 https://cdn-tt.pages.dev/ch5.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png" ,Bioscope 01
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv",  FIFA World Cup 26 Tipik Direct
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="onetv",  FIFA World Cup 26 Tipik Direct
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
