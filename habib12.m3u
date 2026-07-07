@@ -56,11 +56,5 @@ https://toffee-fifa.sm-monirul.top/sm/match_rewatch.m3u8
 https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="onetv",  FIFA World Cup 26 Tipik Direct
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv", no tv
