@@ -30,25 +30,27 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 http://103.165.93.31:8095/tsports/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="onetv", FIFA World Cup 26 Tsport
-
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv", Toffee 1
-https://cdn-tt.pages.dev/ch1.m3u8
+https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv", Tofee 2
-https://cdn-tt.pages.dev/ch2.m3u8
+http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv", toffee 3
-https://cdn-tt.pages.dev/ch3.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv", Toffee 4
-https://cdn-tt.pages.dev/ch4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfYvdf2v/gametiles-com-banglalink-toffee.jpg" group-title="onetv", TOFEE REmatch
-https://toffee-fifa.sm-monirul.top/sm/match_rewatch.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png" ,Bioscope 01
