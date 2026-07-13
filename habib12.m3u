@@ -56,26 +56,7 @@ https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Football World Cup 2026 WWWW
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",LE GRAND DIRECT
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RACING GALOP
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racinggalop.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RACING MAG
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RACING TROT
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingtrot.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RACING 1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing1.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RACING 2
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing2.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RACING 3
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing3.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RACING 4
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RACING 5
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing5.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RACING 6
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing6.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ONESPORT
 https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_1/live.livx
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ONESPORT 2
@@ -102,6 +83,14 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026", TAT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="বিশ্বকাপ ফুটবল ২০২৬",  FIFA World Cup 26 Tipik Direct
 
