@@ -32,7 +32,7 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="সংবাদ টিভি", BTV 165
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="সংবাদ টিভি", BTV HOME
-https://flussonic.defineatoz.com/somoy/tracks-v1a1/mono.m3u8
+https://flussonic.defineatoz.com/btv/tracks-a1/index.fmp4.m3u8?token=2bce08882d0292cce07e748039544f200dd38ce8-09bd32cfd339b386ded9a2b13411d7ea-1785955329-1785944529
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="সংবাদ টিভি", sangshod tv
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_national_hd&format=.m3u8
 
